@@ -1,0 +1,13 @@
+E:\很多東西的東西\專題\mindkeyboard2.0\mindkeyboard2.0\bin\Debug\mindkeyboard2.0.exe.config
+E:\很多東西的東西\專題\mindkeyboard2.0\mindkeyboard2.0\bin\Debug\mindkeyboard2.0.exe
+E:\很多東西的東西\專題\mindkeyboard2.0\mindkeyboard2.0\bin\Debug\mindkeyboard2.0.pdb
+E:\很多東西的東西\專題\mindkeyboard2.0\mindkeyboard2.0\obj\Debug\mindkeyboard2.0.csprojResolveAssemblyReference.cache
+E:\很多東西的東西\專題\mindkeyboard2.0\mindkeyboard2.0\obj\Debug\mindkeyboard2._0.Form1.resources
+E:\很多東西的東西\專題\mindkeyboard2.0\mindkeyboard2.0\obj\Debug\mindkeyboard2._0.Properties.Resources.resources
+E:\很多東西的東西\專題\mindkeyboard2.0\mindkeyboard2.0\obj\Debug\mindkeyboard2.0.csproj.GenerateResource.Cache
+E:\很多東西的東西\專題\mindkeyboard2.0\mindkeyboard2.0\obj\Debug\mindkeyboard2.0.exe
+E:\很多東西的東西\專題\mindkeyboard2.0\mindkeyboard2.0\obj\Debug\mindkeyboard2.0.pdb
+E:\很多東西的東西\專題\mindkeyboard2.0\mindkeyboard2.0\bin\Debug\ThinkGearNET.dll
+C:\Users\chunghuawu\Desktop\專題\mindkeyboard2.0\mindkeyboard2.0\bin\Debug\mindkeyboard2.0.exe.config
+C:\Users\chunghuawu\Desktop\專題\mindkeyboard2.0\mindkeyboard2.0\obj\Debug\mindkeyboard2.0.exe
+C:\Users\chunghuawu\Desktop\專題\mindkeyboard2.0\mindkeyboard2.0\obj\Debug\mindkeyboard2.0.pdb
