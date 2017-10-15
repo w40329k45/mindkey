@@ -126,6 +126,7 @@
             this.LL3 = new System.Windows.Forms.Label();
             this.RC = new System.Windows.Forms.Label();
             this.LC = new System.Windows.Forms.Label();
+            this.enactment_btn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -1197,11 +1198,22 @@
             this.LC.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.LC.Click += new System.EventHandler(this.LC_Click);
             // 
+            // enactment_btn
+            // 
+            this.enactment_btn.Location = new System.Drawing.Point(902, 134);
+            this.enactment_btn.Name = "enactment_btn";
+            this.enactment_btn.Size = new System.Drawing.Size(75, 23);
+            this.enactment_btn.TabIndex = 83;
+            this.enactment_btn.Text = "設置";
+            this.enactment_btn.UseVisualStyleBackColor = true;
+            this.enactment_btn.Click += new System.EventHandler(this.enactment_btn_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1030, 311);
+            this.Controls.Add(this.enactment_btn);
             this.Controls.Add(this.LC);
             this.Controls.Add(this.RC);
             this.Controls.Add(this.LL5);
@@ -1412,6 +1424,7 @@
         private System.Windows.Forms.Label LL3;
         private System.Windows.Forms.Label RC;
         private System.Windows.Forms.Label LC;
+        private System.Windows.Forms.Button enactment_btn;
     }
 }
 

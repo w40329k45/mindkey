@@ -42,3 +42,15 @@ D:\MindKeyboard\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.csproj.GenerateRes
 D:\MindKeyboard\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.csproj.CoreCompileInputs.cache
 D:\MindKeyboard\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.exe
 D:\MindKeyboard\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.pdb
+D:\mindkey\mindkeyboard2.0\bin\x86\Debug\mindkeyboard2.0.exe.config
+D:\mindkey\mindkeyboard2.0\bin\x86\Debug\mindkeyboard2.0.exe
+D:\mindkey\mindkeyboard2.0\bin\x86\Debug\mindkeyboard2.0.pdb
+D:\mindkey\mindkeyboard2.0\bin\x86\Debug\ThinkGearNET.dll
+D:\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.csprojResolveAssemblyReference.cache
+D:\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2._0.enactment_page.resources
+D:\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2._0.Form1.resources
+D:\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2._0.Properties.Resources.resources
+D:\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.csproj.GenerateResource.Cache
+D:\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.csproj.CoreCompileInputs.cache
+D:\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.exe
+D:\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.pdb

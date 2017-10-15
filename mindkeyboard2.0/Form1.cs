@@ -856,6 +856,12 @@ namespace mindkeyboard2._0
 
         }
 
+        private void enactment_btn_Click(object sender, EventArgs e)
+        {
+            enactment_page frm = new enactment_page();
+            frm.ShowDialog(this);
+        }
+
         private void attshow_Click(object sender, EventArgs e)
         {
 
