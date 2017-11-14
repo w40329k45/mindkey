@@ -54,3 +54,6 @@ D:\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.csproj.GenerateResource
 D:\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.csproj.CoreCompileInputs.cache
 D:\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.exe
 D:\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.pdb
+E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\bin\x86\Debug\mindkeyboard2.0.exe.config
+E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.exe
+E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.pdb
