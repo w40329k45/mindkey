@@ -127,6 +127,7 @@
             this.RC = new System.Windows.Forms.Label();
             this.LC = new System.Windows.Forms.Label();
             this.enactment_btn = new System.Windows.Forms.Button();
+            this.dictext = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -1208,11 +1209,22 @@
             this.enactment_btn.UseVisualStyleBackColor = true;
             this.enactment_btn.Click += new System.EventHandler(this.enactment_btn_Click);
             // 
+            // dictext
+            // 
+            this.dictext.AutoSize = true;
+            this.dictext.Location = new System.Drawing.Point(851, 288);
+            this.dictext.Name = "dictext";
+            this.dictext.Size = new System.Drawing.Size(33, 12);
+            this.dictext.TabIndex = 84;
+            this.dictext.Text = "label2";
+            this.dictext.Visible = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1030, 311);
+            this.Controls.Add(this.dictext);
             this.Controls.Add(this.enactment_btn);
             this.Controls.Add(this.LC);
             this.Controls.Add(this.RC);
@@ -1316,6 +1328,7 @@
             this.MinimizeBox = false;
             this.Name = "Form1";
             this.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.Text = "MyKeyboard";
             this.TopMost = true;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -1425,6 +1438,7 @@
         private System.Windows.Forms.Label RC;
         private System.Windows.Forms.Label LC;
         private System.Windows.Forms.Button enactment_btn;
+        private System.Windows.Forms.Label dictext;
     }
 }
 

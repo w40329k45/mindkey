@@ -14,6 +14,7 @@ using System.Threading;
 using System.Runtime.InteropServices;
 using System.IO;
 using System.Diagnostics;
+//using Tdictionary;
 
 namespace mindkeyboard2._0
 {

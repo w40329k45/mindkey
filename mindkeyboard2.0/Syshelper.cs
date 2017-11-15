@@ -35,8 +35,8 @@ namespace mindkeyboard2._0
 
         public void movemouse(int[] data_b)
         {
-            int x = data_b[0] % 100;
-            int y = data_b[1] % 100;
+            int x = data_b[0] / 100;
+            int y = data_b[1] / 100;
 
             if (x< -3) mouse_event(MOUSEEVENTF_MOVE, -8 * x, 0, 0, 0);
             else if (x > 3) mouse_event(MOUSEEVENTF_MOVE, -8 * x, 0, 0, 0);

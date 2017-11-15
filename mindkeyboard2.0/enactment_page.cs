@@ -31,7 +31,7 @@ namespace mindkeyboard2._0
         {
             InitializeComponent();
             String settiing_path = System.Environment.CurrentDirectory;
-            String filename = "settingdate.dat";
+            String filename = "settingdate.txt";
             fs = File.Create(settiing_path + @"\"+filename);
             portn = SerialPort.GetPortNames();
             gearcoomport_cb.Items.AddRange(portn);

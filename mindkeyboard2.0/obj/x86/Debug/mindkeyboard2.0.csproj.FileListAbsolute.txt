@@ -57,3 +57,12 @@ D:\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.pdb
 E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\bin\x86\Debug\mindkeyboard2.0.exe.config
 E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.exe
 E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.pdb
+E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\bin\x86\Debug\mindkeyboard2.0.exe
+E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\bin\x86\Debug\mindkeyboard2.0.pdb
+E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\bin\x86\Debug\ThinkGearNET.dll
+E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.csprojResolveAssemblyReference.cache
+E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2._0.enactment_page.resources
+E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2._0.Form1.resources
+E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2._0.Properties.Resources.resources
+E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.csproj.GenerateResource.Cache
+E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2._0.SimpleForm.resources
