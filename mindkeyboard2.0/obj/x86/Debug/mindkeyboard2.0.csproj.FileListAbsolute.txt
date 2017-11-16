@@ -66,3 +66,4 @@ E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboa
 E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2._0.Properties.Resources.resources
 E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2.0.csproj.GenerateResource.Cache
 E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\obj\x86\Debug\mindkeyboard2._0.SimpleForm.resources
+E:\很多東西的東西\專題\mindkey\mindkeyboard2.0\bin\x86\Debug\Tdictionary.dll
